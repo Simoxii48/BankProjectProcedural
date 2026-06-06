@@ -1,0 +1,194 @@
+Login#//#Admin#//#2/4/2026 - 19:9:38
+Login#//#Admin#//#2/4/2026 - 19:9:52
+Login#//#Admin#//#2/4/2026 - 19:54:45
+Show All Clients#//#Admin#//#2/4/2026 - 19:55:22
+Access Manage Users Menu#//#Admin#//#2/4/2026 - 19:55:25
+View Action Logs#//#Admin#//#2/4/2026 - 19:55:31
+View Action Logs#//#Admin#//#2/4/2026 - 19:55:36
+Logout#//#Admin#//#2/4/2026 - 19:55:47
+Login#//#Admin#//#2/4/2026 - 20:1:33
+Access Manage Users Menu#//#Admin#//#2/4/2026 - 20:3:57
+View Action Logs#//#Admin#//#2/4/2026 - 20:4:0
+List Users#//#Admin#//#2/4/2026 - 20:4:8
+View Action Logs#//#Admin#//#2/4/2026 - 20:4:27
+View Action Logs#//#Admin#//#2/4/2026 - 20:6:21
+List Users#//#Admin#//#2/4/2026 - 20:6:35
+Logout#//#Admin#//#2/4/2026 - 20:6:41
+Login#//#SU#//#2/4/2026 - 20:6:48
+Access Manage Users Menu#//#SU#//#2/4/2026 - 20:6:55
+View Action Logs#//#SU#//#2/4/2026 - 20:6:57
+Login#//#SU#//#2/4/2026 - 20:18:52
+Access Manage Users Menu#//#SU#//#2/4/2026 - 20:19:0
+View Action Logs#//#SU#//#2/4/2026 - 20:19:5
+View Action Logs#//#SU#//#2/4/2026 - 20:19:14
+List Users#//#SU#//#2/4/2026 - 20:19:22
+Logout#//#SU#//#2/4/2026 - 20:19:34
+Login#//#User#//#2/4/2026 - 20:19:40
+Access Manage Users Menu#//#User#//#2/4/2026 - 20:19:46
+View Action Logs#//#User#//#2/4/2026 - 20:19:49
+Login#//#User#//#2/4/2026 - 20:23:26
+Access Manage Users Menu#//#User#//#2/4/2026 - 20:23:34
+Revoke User Permissions#//#User#//#2/4/2026 - 20:23:38
+Find User#//#User#//#2/4/2026 - 20:23:45
+View Action Logs#//#User#//#2/4/2026 - 20:23:55
+View Action Logs#//#User#//#2/4/2026 - 20:24:23
+List Users#//#User#//#2/4/2026 - 20:24:33
+View Action Logs#//#User#//#2/4/2026 - 20:24:36
+View Action Logs#//#User#//#2/4/2026 - 20:24:59
+Login#//#User#//#2/4/2026 - 20:25:32
+Access Manage Users Menu#//#User#//#2/4/2026 - 20:25:39
+Unlock User#//#User#//#2/4/2026 - 20:25:46
+View Action Logs#//#User#//#2/4/2026 - 20:25:50
+Logout#//#User#//#2/4/2026 - 20:26:23
+Login#//#Admin#//#2/4/2026 - 20:26:28
+Access Manage Users Menu#//#Admin#//#2/4/2026 - 20:26:34
+View Action Logs#//#Admin#//#2/4/2026 - 20:26:36
+Logout#//#Admin#//#2/4/2026 - 20:26:58
+Login#//#Admin#//#3/4/2026 - 16:25:1
+Access Transactions Menu#//#Admin#//#3/4/2026 - 16:25:10
+Login#//#Admin#//#3/4/2026 - 18:43:20
+Access Transactions Menu#//#Admin#//#3/4/2026 - 18:43:29
+Login#//#Admin#//#3/4/2026 - 18:45:1
+Access Transactions Menu#//#Admin#//#3/4/2026 - 18:45:14
+Access Transfer Menu#//#Admin#//#3/4/2026 - 18:45:17
+Show All Clients#//#Admin#//#3/4/2026 - 18:45:52
+Show All Clients#//#Admin#//#3/4/2026 - 18:51:9
+Access Transactions Menu#//#Admin#//#3/4/2026 - 18:51:21
+Access Transfer Menu#//#Admin#//#3/4/2026 - 18:51:24
+Show All Clients#//#Admin#//#3/4/2026 - 18:51:58
+Access Transactions Menu#//#Admin#//#3/4/2026 - 18:52:3
+Access Transfer Menu#//#Admin#//#3/4/2026 - 18:52:5
+Show All Clients#//#Admin#//#3/4/2026 - 18:52:29
+Access Manage Users Menu#//#Admin#//#3/4/2026 - 18:52:41
+Add New User#//#Admin#//#3/4/2026 - 18:52:44
+List Users#//#Admin#//#3/4/2026 - 18:53:20
+Update User#//#Admin#//#3/4/2026 - 18:53:50
+List Users#//#Admin#//#3/4/2026 - 18:54:25
+Add New User#//#Admin#//#3/4/2026 - 18:56:29
+List Users#//#Admin#//#3/4/2026 - 18:56:43
+Update User#//#Admin#//#3/4/2026 - 18:56:53
+List Users#//#Admin#//#3/4/2026 - 18:57:4
+Update User#//#Admin#//#3/4/2026 - 18:57:10
+List Users#//#Admin#//#3/4/2026 - 18:57:32
+Add New User#//#Admin#//#3/4/2026 - 18:58:40
+List Users#//#Admin#//#3/4/2026 - 19:4:20
+Delete User#//#Admin#//#3/4/2026 - 19:4:30
+Delete User#//#Admin#//#3/4/2026 - 19:4:37
+Delete User#//#Admin#//#3/4/2026 - 19:4:44
+Delete User#//#Admin#//#3/4/2026 - 19:4:49
+List Users#//#Admin#//#3/4/2026 - 19:4:55
+Update User#//#Admin#//#3/4/2026 - 19:5:1
+List Users#//#Admin#//#3/4/2026 - 19:5:18
+Logout#//#Admin#//#3/4/2026 - 19:5:27
+Login#//#SU#//#3/4/2026 - 19:5:31
+Show All Clients#//#SU#//#3/4/2026 - 19:5:37
+Add New Client#//#SU#//#3/4/2026 - 19:5:38
+Delete Client#//#SU#//#3/4/2026 - 19:5:39
+Update Client#//#SU#//#3/4/2026 - 19:5:41
+Find Client#//#SU#//#3/4/2026 - 19:5:43
+Access Manage Users Menu#//#SU#//#3/4/2026 - 19:5:45
+Access Transactions Menu#//#SU#//#3/4/2026 - 19:5:47
+Deposit Transaction#//#SU#//#3/4/2026 - 19:5:48
+Withdraw Transaction#//#SU#//#3/4/2026 - 19:5:50
+Access Transfer Menu#//#SU#//#3/4/2026 - 19:5:52
+View Transactions Log#//#SU#//#3/4/2026 - 19:6:11
+Logout#//#SU#//#3/4/2026 - 19:6:34
+Login#//#SU#//#3/4/2026 - 19:19:0
+Show All Clients#//#SU#//#3/4/2026 - 19:19:7
+Access Transactions Menu#//#SU#//#3/4/2026 - 19:19:9
+View Transfers Log#//#SU#//#3/4/2026 - 19:19:15
+Login#//#SU#//#3/4/2026 - 19:19:53
+Access Transactions Menu#//#SU#//#3/4/2026 - 19:20:5
+View Transfers Log#//#SU#//#3/4/2026 - 19:20:7
+View Transfers Log#//#SU#//#3/4/2026 - 19:20:25
+Login#//#SU#//#3/4/2026 - 19:21:44
+Access Transactions Menu#//#SU#//#3/4/2026 - 19:21:52
+View Transfers Log#//#SU#//#3/4/2026 - 19:21:53
+Login#//#Admin#//#3/4/2026 - 20:55:59
+Access Transactions Menu#//#Admin#//#3/4/2026 - 20:56:6
+View Transfers Log#//#Admin#//#3/4/2026 - 20:56:8
+Login#//#Admin#//#3/4/2026 - 20:58:53
+Access Transactions Menu#//#Admin#//#3/4/2026 - 20:59:4
+View Transfers Log#//#Admin#//#3/4/2026 - 20:59:7
+View Transactions Log#//#Admin#//#3/4/2026 - 21:0:15
+View Transfers Log#//#Admin#//#3/4/2026 - 21:0:18
+Access Manage Users Menu#//#Admin#//#3/4/2026 - 21:0:26
+View Action Logs#//#Admin#//#3/4/2026 - 21:0:28
+Login#//#Admin#//#3/4/2026 - 21:9:13
+Access Manage Users Menu#//#Admin#//#3/4/2026 - 21:9:20
+View Action Logs#//#Admin#//#3/4/2026 - 21:9:22
+Login#//#Admin#//#3/4/2026 - 21:10:37
+Access Manage Users Menu#//#Admin#//#3/4/2026 - 21:10:43
+View Action Logs#//#Admin#//#3/4/2026 - 21:10:44
+Login#//#Admin#//#3/4/2026 - 21:15:11
+Access Manage Users Menu#//#Admin#//#3/4/2026 - 21:15:16
+View Action Logs#//#Admin#//#3/4/2026 - 21:15:17
+Login#//#Admin#//#3/4/2026 - 21:16:21
+Access Manage Users Menu#//#Admin#//#3/4/2026 - 21:16:28
+View Action Logs#//#Admin#//#3/4/2026 - 21:16:30
+Login#//#Admin#//#3/4/2026 - 21:17:13
+Access Manage Users Menu#//#Admin#//#3/4/2026 - 21:17:19
+View Action Logs#//#Admin#//#3/4/2026 - 21:17:20
+Login#//#Admin#//#3/4/2026 - 21:18:37
+Access Manage Users Menu#//#Admin#//#3/4/2026 - 21:18:43
+View Action Logs#//#Admin#//#3/4/2026 - 21:18:44
+View Action Logs#//#Admin#//#3/4/2026 - 21:18:59
+Login#//#Admin#//#3/4/2026 - 21:25:42
+Access Manage Users Menu#//#Admin#//#3/4/2026 - 21:25:48
+View Action Logs#//#Admin#//#3/4/2026 - 21:25:49
+Access Transactions Menu#//#Admin#//#3/4/2026 - 21:26:14
+View Transfers Log#//#Admin#//#3/4/2026 - 21:26:22
+Logout#//#Admin#//#3/4/2026 - 21:26:30
+Login#//#Admin#//#3/4/2026 - 22:4:52
+Access Transactions Menu#//#Admin#//#3/4/2026 - 22:5:7
+Deposit Transaction#//#Admin#//#3/4/2026 - 22:5:9
+View Transactions Log#//#Admin#//#3/4/2026 - 22:5:26
+Login#//#Admin#//#3/4/2026 - 22:7:10
+Access Transactions Menu#//#Admin#//#3/4/2026 - 22:7:19
+View Transactions Log#//#Admin#//#3/4/2026 - 22:7:22
+View Transfers Log#//#Admin#//#3/4/2026 - 22:8:31
+View Transactions Log#//#Admin#//#3/4/2026 - 22:8:36
+Login#//#Admin#//#3/4/2026 - 22:8:50
+Access Transactions Menu#//#Admin#//#3/4/2026 - 22:9:2
+View Transactions Log#//#Admin#//#3/4/2026 - 22:9:4
+Login#//#Admin#//#3/4/2026 - 22:10:52
+Access Transactions Menu#//#Admin#//#3/4/2026 - 22:11:0
+View Transactions Log#//#Admin#//#3/4/2026 - 22:11:9
+Login#//#Admin#//#3/4/2026 - 22:12:31
+Access Transactions Menu#//#Admin#//#3/4/2026 - 22:12:39
+View Transactions Log#//#Admin#//#3/4/2026 - 22:12:39
+Access Manage Users Menu#//#Admin#//#3/4/2026 - 22:12:56
+Access Manage Users Menu#//#Admin#//#3/4/2026 - 22:13:4
+Access Manage Users Menu#//#Admin#//#3/4/2026 - 22:13:38
+Access Manage Users Menu#//#Admin#//#3/4/2026 - 22:13:43
+View Action Logs#//#Admin#//#3/4/2026 - 22:17:12
+Access Transactions Menu#//#Admin#//#3/4/2026 - 22:17:39
+View Transactions Log#//#Admin#//#3/4/2026 - 22:17:42
+Withdraw Transaction#//#Admin#//#3/4/2026 - 22:17:46
+View Transactions Log#//#Admin#//#3/4/2026 - 22:17:58
+View Transfers Log#//#Admin#//#3/4/2026 - 22:19:3
+View Transfers Log#//#Admin#//#3/4/2026 - 22:19:25
+Access Manage Users Menu#//#Admin#//#3/4/2026 - 22:19:32
+List Users#//#Admin#//#3/4/2026 - 22:19:33
+Logout#//#Admin#//#3/4/2026 - 22:19:55
+Login#//#SU#//#3/4/2026 - 22:20:0
+Login#//#Admin#//#3/4/2026 - 22:54:22
+Login#//#Admin#//#3/4/2026 - 23:3:28
+Login#//#SU#//#4/4/2026 - 5:21:22
+Access Transactions Menu#//#SU#//#4/4/2026 - 5:21:29
+View Transfers Log#//#SU#//#4/4/2026 - 5:21:37
+Access Manage Users Menu#//#SU#//#4/4/2026 - 5:21:46
+Login#//#Admin#//#26/4/2026 - 13:43:17
+Access Transactions Menu#//#Admin#//#26/4/2026 - 13:43:29
+Access Manage Users Menu#//#Admin#//#26/4/2026 - 13:43:48
+Access Transactions Menu#//#Admin#//#26/4/2026 - 13:44:45
+Login#//#Admin#//#6/6/2026 - 13:8:44
+Show All Clients#//#Admin#//#6/6/2026 - 13:8:54
+Access Transactions Menu#//#Admin#//#6/6/2026 - 13:9:5
+Total Balances#//#Admin#//#6/6/2026 - 13:9:14
+View Transactions Log#//#Admin#//#6/6/2026 - 13:9:19
+View Transfers Log#//#Admin#//#6/6/2026 - 13:9:26
+Access Manage Users Menu#//#Admin#//#6/6/2026 - 13:9:42
+List Users#//#Admin#//#6/6/2026 - 13:9:45
+View Action Logs#//#Admin#//#6/6/2026 - 13:9:57
+Logout#//#Admin#//#6/6/2026 - 13:10:34
